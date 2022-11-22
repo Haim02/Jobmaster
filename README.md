@@ -14,6 +14,6 @@ jobMaster = https://www.jobmaster.co.il/
 
 Run the main file 'job_master.py'.
 the script scans the site and displays domains of jobs,
-select a domain and the subdomain,
+select a domain and a subdomain,
 the script will create a csv file
 with the selected jobs.
